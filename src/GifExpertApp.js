@@ -6,14 +6,12 @@ export const GifExpertApp = () => {
   // const categories= ;
   const [categories, setcategories] = useState([
     "one punch",
-    "cositas",
-    "jaja",
+  
   ]);
 
   //   const handleAdd = () => {
   //     setcategories(['Narutox',...categories]);
   //   };
-
   return (
     <div>
       <h2>GifExpertApp</h2>
